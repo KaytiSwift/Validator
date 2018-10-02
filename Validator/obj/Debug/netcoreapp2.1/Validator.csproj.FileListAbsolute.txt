@@ -1,0 +1,11 @@
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\bin\Debug\netcoreapp2.1\Validator.deps.json
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\bin\Debug\netcoreapp2.1\Validator.runtimeconfig.json
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\bin\Debug\netcoreapp2.1\Validator.runtimeconfig.dev.json
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\bin\Debug\netcoreapp2.1\Validator.dll
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\bin\Debug\netcoreapp2.1\Validator.pdb
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\obj\Debug\netcoreapp2.1\Validator.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\obj\Debug\netcoreapp2.1\Validator.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\obj\Debug\netcoreapp2.1\Validator.AssemblyInfoInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\obj\Debug\netcoreapp2.1\Validator.AssemblyInfo.cs
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\obj\Debug\netcoreapp2.1\Validator.dll
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator\obj\Debug\netcoreapp2.1\Validator.pdb

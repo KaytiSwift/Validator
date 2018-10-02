@@ -1,0 +1,17 @@
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\Validator.Tests.deps.json
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\Validator.Tests.runtimeconfig.json
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\Validator.Tests.runtimeconfig.dev.json
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\Validator.Tests.dll
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\Validator.Tests.pdb
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\Validator.dll
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\bin\Debug\netcoreapp2.1\Validator.pdb
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\obj\Debug\netcoreapp2.1\Validator.Tests.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\obj\Debug\netcoreapp2.1\Validator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\obj\Debug\netcoreapp2.1\Validator.Tests.AssemblyInfoInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\obj\Debug\netcoreapp2.1\Validator.Tests.AssemblyInfo.cs
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\obj\Debug\netcoreapp2.1\Validator.Tests.csproj.CopyComplete
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\obj\Debug\netcoreapp2.1\Validator.Tests.dll
+C:\Users\WeCanCodeIT\source\repos\Validator\Validator.Tests\obj\Debug\netcoreapp2.1\Validator.Tests.pdb
